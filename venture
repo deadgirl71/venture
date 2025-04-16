@@ -27,7 +27,7 @@ var roomstuff = {
     },
     "gathering": {
       "rName": "The Gathering Room",
-      "backgroundImage": "https://soi-venture.hyperchat.com/gathering.jpg",
+      "backgroundImage": "https://soi-venture.hyperchat.com/gatheringback.jpg",
       "chatleft": "",
       "underchat": "",
       "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/gatheringtop.jpg'><br>Welcome to the Gathering Room<BR>A place to just <BR>gather and hangout<br></center>",
