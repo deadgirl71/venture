@@ -2,10 +2,10 @@ var multiConfig = {"THISROOM":"venture","locationColor":"orange","locationBackgr
 
 var roomstuff = {"rooms":{
 
-"music":{"rName":"Music Play Room","backgroundImage":"https://soi-venture.hyperchat.com/music.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-venture.hyperchat.com/musictop.jpg><br>Welcome to the Music Room<BR>Post songs<BR>Post lyrics<br></center>","roombottom":""},
+"music":{"rName":"Music Play Room","backgroundImage":"https://soi-venture.hyperchat.com/music.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src="https://soi-venture.hyperchat.com/musictop.jpg"><br>Welcome to the Music Room<BR>Post songs<BR>Post lyrics<br></center>","roombottom":""},
 
-"writings":{"rName":"The Writing Room","backgroundImage":"https://soi-venture.hyperchat.com/writing.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-venture.hyperchat.com/writingtop.jpg><br>Welcome to the Writing Room<BR>Post writings<BR>Your own<BR>or others<br></center>","roombottom":""},
+"writings":{"rName":"The Writing Room","backgroundImage":"https://soi-venture.hyperchat.com/writing.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src="https://soi-venture.hyperchat.com/writingtop.jpg"><br>Welcome to the Writing Room<BR>Post writings<BR>Your own<BR>or others<br></center>","roombottom":""},
 
-"gathering":{"rName":"The Gathering Room","backgroundImage":"https://soi-venture.hyperchat.com/gathering.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-venture.hyperchat.com/gatheringtop.jpg><br>Welcome to the Gathering Room<BR>A place to just <BR>gather and hangout<br></center>","roombottom":""},
+"gathering":{"rName":"The Gathering Room","backgroundImage":"https://soi-venture.hyperchat.com/gathering.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src="https://soi-venture.hyperchat.com/gatheringtop.jpg"><br>Welcome to the Gathering Room<BR>A place to just <BR>gather and hangout<br></center>","roombottom":""},
 
-}}*
+}};
