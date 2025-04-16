@@ -1,11 +1,11 @@
-var multiConfig = {"THISROOM":"venture","locationColor":"orange","locationBackground":"green","currentView":"","viewList":["music","writings","gathering"],"defaultView":"main"}
+var multiConfig = {"THISROOM":"venture","locationColor":"orange","locationBackground":"green","currentView":"","viewList":["music","writings","gathering"],"defaultView":"music"}
 
 var roomstuff = {"rooms":{
 
-"music":{"rName":"Le donjon (The Dungeon)","backgroundImage":"https://soi-drkdunge.hyperchat.com/DUNGEONbottom.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/DarkDungeontopnew.jpg><br>Welcome to the Dungeon<br></center>","roombottom":""},
+"music":{"rName":"Music Play Room","backgroundImage":"https://soi-venture.hyperchat.com/music.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c2f1ff;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/DarkDungeontopnew.jpg><br>Welcome to the Music Room<br></center>","roombottom":""},
 
-"writings":{"rName":"La salle de réunion (The Meeting Room)","backgroundImage":"https://soi-drkdunge.hyperchat.com/meetingroombackgroundUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/meetingroomtopUSE.jpg><br>Welcome to the Meeting Room<br></center>","roombottom":""},
+"writings":{"rName":"The Writing Room","backgroundImage":"https://soi-venture.hyperchat.com/writing.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #c8b4b0;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/meetingroomtopUSE.jpg><br>Welcome to the Writing Room<br></center>","roombottom":""},
 
-"gathering":{"rName":"La salle des rafraîchissements (The Refreshments Room)","backgroundImage":"https://soi-drkdunge.hyperchat.com/refreshmentroombackUSE.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/refreshmentroomtopUSE.jpg><br>Welcome to the Refreshments Room<br></center>","roombottom":""},
+"gathering":{"rName":"The Gathering Room","backgroundImage":"https://soi-venture.hyperchat.com/gathering.jpg","chatleft":"","underchat":"","roomtop":"<style>body {color: #9a7c4f;}</style><center><img class='topImage' src=https://soi-drkdunge.hyperchat.com/refreshmentroomtopUSE.jpg><br>Welcome to the Gathering Room<br></center>","roombottom":""},
 
 }}*
