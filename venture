@@ -35,10 +35,10 @@ var roomstuff = {
     },
     "archivist": {
       "rName": "Archivist’s Vault",
-      "backgroundImage": "https://soi-venture.hyperchat.com/archivistsbackground.jpg",
+      "backgroundImage": "https://soi-venture.hyperchat.com/archivitsbackground.jpg",
       "chatleft": "",
       "underchat": "",
-      "roomtop": "<center><img class='topImage' src='https://soi-venture.hyperchat.com/archiviststoppic.jpg'><br>Welcome to the Archivist’s Vault<br>Ancient tomes, whispers,<br>forgotten secrets,<br>glowing lanterns<br></center>",
+      "roomtop": "<center><img class='topImage' src='https://soi-venture.hyperchat.com/archivitstoppic.jpg'><br>Welcome to the Archivist’s Vault<br>Ancient tomes, whispers,<br>forgotten secrets,<br>glowing lanterns<br></center>",
       "roombottom": ""
     },
     "ember": {
