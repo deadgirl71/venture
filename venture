@@ -3,7 +3,7 @@ var multiConfig = {
   "locationColor": "orange",
   "locationBackground": "green",
   "currentView": "music", // Set a default value instead of an empty string
-  "viewList": ["music", "writings", "gathering"],
+  "viewList": ["music", "writings", "gathering", "archivist", "ember", "observatory", "reflection", "veiled"],
   "defaultView": "music"
 };
 
@@ -11,7 +11,7 @@ var roomstuff = {
   "rooms": {
     "music": {
       "rName": "Music Play Room",
-      "backgroundImage": "https://soi-venture.hyperchat.com/music.jpg",
+      "backgroundImage": "https://soi-venture.hyperchat.com/formusicbackground.jpg",
       "chatleft": "",
       "underchat": "",
       "roomtop": "<style>body {color: #c2f1ff;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/musictop.jpg'><br>Welcome to the Music Room<BR>Post songs<BR>Post lyrics<br></center>",
@@ -27,11 +27,56 @@ var roomstuff = {
     },
     "gathering": {
       "rName": "The Gathering Room",
-      "backgroundImage": "https://soi-venture.hyperchat.com/gatheringback.jpg",
+      "backgroundImage": "https://soi-venture.hyperchat.com/forgatherbackuse.jpg",
       "chatleft": "",
       "underchat": "",
       "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/gatheringtop.jpg'><br>Welcome to the Gathering Room<BR>A place to just <BR>gather and hangout<br></center>",
       "roombottom": ""
-    }
-  }
+    },
+  
+    "archivist": {
+      "rName": "Archivist’s Vault",
+      "backgroundImage": "https://soi-venture.hyperchat.com/archivitsbackground.jpg",
+      "chatleft": "",
+      "underchat": "",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/archivitstoppic.jpg'><br>Welcome to the Archivist’s Vault<BR>Ancient tomes, whispers, <BR>forgotten secrets, <BR>glowing lanterns<br></center>",
+      "roombottom": ""
+
+    },
+    "ember": {
+      "rName": "Ember Hall",
+      "backgroundImage": "https://soi-venture.hyperchat.com/emberhallbackground.jpg",
+      "chatleft": "",
+      "underchat": "",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/emberhalltop.jpg'><br>Welcome to the Ember Hall<BR>Flickering firelight, intensity,<BR> hushed voices, sacred warmth<br></center>",
+      "roombottom": ""
+
+    },
+ "observatory": {
+      "rName": "Observatory Nook",
+      "backgroundImage": "https://soi-venture.hyperchat.com/observatorynook.jpg",
+      "chatleft": "",
+      "underchat": "",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/observatorynooktop.jpg'><br>Welcome to the Observatory Nook<BR>Celestial glow, stars, <BR>cosmic wonder, infinite dreaming<br></center>",
+      "roombottom": ""
+
+    },
+ "reflection": {
+      "rName": "Reflection Chamber",
+      "backgroundImage": "https://soi-venture.hyperchat.com/reflectionchamberbackground.jpg",
+      "chatleft": "",
+      "underchat": "",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/reflectionchambertoppic.jpg'><br>Welcome to the Reflection Chamber<BR>Soft light, echoes, <BR>quiet introspection, <BR>lingering thoughts<br></center>",
+      "roombottom": ""
+
+    },
+ "veiled": {
+      "rName": "Veiled Lounge",
+      "backgroundImage": "https://soi-venture.hyperchat.com/veiledloungebackground.jpg",
+      "chatleft": "",
+      "underchat": "",
+      "roomtop": "<style>body {color: #9a7c4f;}</style><center><img class='topImage' src='https://soi-venture.hyperchat.com/veiledloungetop.jpg'><br>Welcome to the Veiled Lounge<BR>Velvet drapes, dark mirrors, <BR>whispered intrigue, gothic elegance<br></center>",
+      "roombottom": ""
+
+    },
 };
